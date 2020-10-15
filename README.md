@@ -21,9 +21,7 @@ git >https://git-scm.com/
 ============================================================================
                                 INSTALLATION
 ============================================================================
-git clone
-cd prtscnr
-python <exaple ip> <exaple port> -n
+git clone && cd prtscnr && python <exaple ip> <exaple port> -n
     
    
 
