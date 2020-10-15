@@ -21,8 +21,15 @@ git >https://git-scm.com/
 ============================================================================
                                 INSTALLATION
 ============================================================================
-git clone https://github.com/astenvasten/prtscnr/blob/main/portscnr.py.git && cd prtscnr && 
-python <exaple ip> <exaple port> -n
+git clone https://github.com/astenvasten/prtscnr/blob/main/portscnr.py.git 
+ ___________________________________________________________________________
+ usage
+ ______________________________________________________________________
+ cd prtscnr 
+ 
+ python prtscnr (ip) (port) -n
+ 
+
     
    
 
